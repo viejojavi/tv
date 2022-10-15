@@ -9,28 +9,28 @@ https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8
 #EXTINF:-1 tvg-id="CaracolTelevision.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/512px-Caracol_Televisi%C3%B3n_logo.svg.png" group-title="COLOMBIA", Canal Caracol (720p) [Geo-blocked]
 https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
 
-#EXTINF:-1 tvg-id="CNCCartagena.co" group-title=”COLOMBIA", tvg-logo="https://i.imgur.com/dJHZfNt.png" group-title="Undefined",Canal CNC Cartagena (Cartagena | Bolívar) (720p)
+#EXTINF:-1 tvg-id="CNCCartagena.co" tvg-logo="https://i.imgur.com/dJHZfNt.png" group-title="COLOMBIA",Canal CNC Cartagena (Cartagena | Bolívar) (720p)
 https://cloud2.streaminglivehd.com:1936/8054/8054/playlist.m3u8
 
-#EXTINF:-1 tvg-id="HuilaTV.co" group-title=”COLOMBIA", tvg-logo="https://www.huilatv.com/wp-content/uploads/2020/01/LOGO-HUILA-TV-ICONO-300x161.png" group-title="Music",Huila TV
+#EXTINF:-1 tvg-id="HuilaTV.co" tvg-logo="https://www.huilatv.com/wp-content/uploads/2020/01/LOGO-HUILA-TV-ICONO-300x161.png" group-title="COLOMBIA",Huila TV
 https://plataformavideo.com:19360/8020/8020.m3u8
 
-#EXTINF:-1 tvg-id="TDIColombia.co" group-title=”COLOMBIA", tvg-logo="https://cdn.colombia.com/canales/tdi-colombia-4792.jpg" group-title="General",TDI Colombia (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="TDIColombia.co" tvg-logo="https://cdn.colombia.com/canales/tdi-colombia-4792.jpg" group-title="COLOMBIA",TDI Colombia (720p) [Not 24/7]
 https://play.amelbasoluciones.co:3971/live/tdicolombiatvlive.m3u8
 
-#EXTINF:-1 tvg-id="Telecaribe.co" group-title=”COLOMBIA", tvg-logo="https://i.imgur.com/WuFlBbL.png" group-title="Undefined",Telecaribe (Puerto Colombia | Atlántico) (720p)
+#EXTINF:-1 tvg-id="Telecaribe.co" tvg-logo="https://i.imgur.com/WuFlBbL.png" group-title="COLOMBIA", Telecaribe (Puerto Colombia | Atlántico) (720p)
 https://tkx.mp.lura.live/rest/v2/mcp/video/adstB64MXYxqLZwy?anvack=4gXmVVoVIp3YeECJWm6af3j0mlHwl6vO&eud=SKjoH1L/9Enwo5zQBiBTRfTSNGfENMNO6udm4CQNVvix/L9XX8kucBOvzWalIghNrL5GllGH8ou17ICYGv29Rg==
 
-#EXTINF:-1 tvg-id="Teleislas.co" group-title=”COLOMBIA", tvg-logo="https://i.imgur.com/4xNgb8H.png" group-title="General",Teleislas (San Andrés) (486p) [Not 24/7]
+#EXTINF:-1 tvg-id="Teleislas.co" tvg-logo="https://i.imgur.com/4xNgb8H.png" group-title="COLOMBIA",Teleislas (San Andrés) (486p) [Not 24/7]
 https://5ab772334c39c.streamlock.net/live-teleislas/teleislas/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Telepacifico.co" group-title=”COLOMBIA", tvg-logo="https://i.imgur.com/39hy97J.png" group-title="Undefined",Telepacífico (Santiago de Cali | Valle del Cauca) (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="Telepacifico.co" tvg-logo="https://i.imgur.com/39hy97J.png" group-title="COLOMBIA",Telepacífico (Santiago de Cali | Valle del Cauca) (720p) [Not 24/7]
 https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TVAgro.co" group-title=”COLOMBIA", tvg-logo="https://i.imgur.com/QJibSpO.png" group-title="Outdoor",TV Agro
+#EXTINF:-1 tvg-id="TVAgro.co" tvg-logo="https://i.imgur.com/QJibSpO.png" group-title="COLOMBIA",TV Agro
 http://179.1.7.198:1935/live/TVAgroHD.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Zoom.co" group-title=”COLOMBIA", tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/zoom_colombia-mediano.png" group-title="Undefined",Zoom (Bogotà | Cundinamarca) (1080p)
+#EXTINF:-1 tvg-id="Zoom.co" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/zoom_colombia-mediano.png" group-title="COLOMBIA",Zoom (Bogotà | Cundinamarca) (1080p)
 https://canalzoom.itex.com.co:3027/live/canalzoombr1live.m3u8
 
 
