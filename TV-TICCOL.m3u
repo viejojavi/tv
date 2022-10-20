@@ -1,37 +1,49 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/ao/guide.dstv.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/ar/directv.com.ar.epg.xml.gz,https://iptv-org.github.io/epg/guides/ar/gatotv.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/ar/mi.tv.epg.xml.gz,https://iptv-org.github.io/epg/guides/bf/canalplus-afrique.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/bo/comteco.com.bo.epg.xml.gz,https://iptv-org.github.io/epg/guides/br/mi.tv.epg.xml.gz,https://iptv-org.github.io/epg/guides/co/gatotv.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/co/mi.tv.epg.xml.gz,https://iptv-org.github.io/epg/guides/co/siba.com.co.epg.xml.gz,https://iptv-org.github.io/epg/guides/cz/m.tv.sms.cz.epg.xml.gz,https://iptv-org.github.io/epg/guides/dk/allente.se.epg.xml.gz,https://iptv-org.github.io/epg/guides/es/movistarplus.es.epg.xml.gz,https://iptv-org.github.io/epg/guides/fr/chaines-tv.orange.fr.epg.xml.gz,https://iptv-org.github.io/epg/guides/gr/cosmote.gr.epg.xml.gz,https://iptv-org.github.io/epg/guides/gt/mi.tv.epg.xml.gz,https://iptv-org.github.io/epg/guides/id-en/mncvision.id.epg.xml.gz,https://iptv-org.github.io/epg/guides/it/guidatv.sky.it.epg.xml.gz,https://iptv-org.github.io/epg/guides/lt/cgates.lt.epg.xml.gz,https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml.gz,https://iptv-org.github.io/epg/guides/ng/dstv.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/nl/delta.nl.epg.xml.gz,https://iptv-org.github.io/epg/guides/pt/meo.pt.epg.xml.gz,https://iptv-org.github.io/epg/guides/tr/digiturk.com.tr.epg.xml.gz,https://iptv-org.github.io/epg/guides/uk/bt.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/us-pluto/i.mjh.nz.epg.xml.gz,https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml.gz,https://iptv-org.github.io/epg/guides/za/guide.dstv.com.epg.xml.gz"
 
-#EXTINF:-1 tvg-id="CaliTV.co" tvg-logo="https://i.imgur.com/AZOTbvH.png" group-title="COLOMBIA",Cali TV (Santiago de Cali | Valle del Cauca) (540p) [Not 24/7]
+#EXTINF:-1 tvg-id="RCN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Canal_RCN_logo_%282%29.svg/640px-Canal_RCN_logo_%282%29.svg.png" group-title="COLOMBIA",Canal RCN
+http://190.61.41.182:8000/play/a1ub
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/City_tv_Bogot%C3%A1_logo.svg/1200px-City_tv_Bogot%C3%A1_logo.svg.png" group-title="COLOMBIA",City TV
+http://190.61.41.182:8000/play/a1up
+
+#EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/513-5139154_sc05-logo-de-seal-colombia.png" group-title="COLOMBIA",Senal Colombia
+http://190.61.41.182:8000/play/a1ug
+
+#EXTINF:-1 tvg-id="CaliTV.co" tvg-logo="https://i.imgur.com/AZOTbvH.png" group-title="COLOMBIA",Cali TV 
 https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Canal1.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Channel_1_%28Colombia%29_-_2017_logo.svg/512px-Channel_1_%28Colombia%29_-_2017_logo.svg.png" group-title="COLOMBIA",Canal 1 (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="Canal1.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Channel_1_%28Colombia%29_-_2017_logo.svg/512px-Channel_1_%28Colombia%29_-_2017_logo.svg.png" group-title="COLOMBIA",Canal 1 
 https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8
 
-#EXTINF:-1 tvg-id="CaracolTelevision.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/512px-Caracol_Televisi%C3%B3n_logo.svg.png" group-title="COLOMBIA", Canal Caracol (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="CaracolTelevision.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/512px-Caracol_Televisi%C3%B3n_logo.svg.png" group-title="COLOMBIA", Canal Caracol
 https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
 
-#EXTINF:-1 tvg-id="CNCCartagena.co" tvg-logo="https://i.imgur.com/dJHZfNt.png" group-title="COLOMBIA",Canal CNC Cartagena (Cartagena | Bolívar) (720p)
+#EXTINF:-1 tvg-id="CNCCartagena.co" tvg-logo="https://i.imgur.com/dJHZfNt.png" group-title="COLOMBIA",Canal CNC Cartagena
 https://cloud2.streaminglivehd.com:1936/8054/8054/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HuilaTV.co" tvg-logo="https://www.huilatv.com/wp-content/uploads/2020/01/LOGO-HUILA-TV-ICONO-300x161.png" group-title="COLOMBIA",Huila TV
 https://plataformavideo.com:19360/8020/8020.m3u8
 
-#EXTINF:-1 tvg-id="TDIColombia.co" tvg-logo="https://cdn.colombia.com/canales/tdi-colombia-4792.jpg" group-title="COLOMBIA",TDI Colombia (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="TDIColombia.co" tvg-logo="https://cdn.colombia.com/canales/tdi-colombia-4792.jpg" group-title="COLOMBIA",TDI Colombia
 https://play.amelbasoluciones.co:3971/live/tdicolombiatvlive.m3u8
 
 #EXTINF:-1 tvg-id="Telecaribe.co" tvg-logo="https://i.imgur.com/WuFlBbL.png" group-title="COLOMBIA", Telecaribe (Puerto Colombia | Atlántico) (720p)
 https://tkx.mp.lura.live/rest/v2/mcp/video/adstB64MXYxqLZwy?anvack=4gXmVVoVIp3YeECJWm6af3j0mlHwl6vO&eud=SKjoH1L/9Enwo5zQBiBTRfTSNGfENMNO6udm4CQNVvix/L9XX8kucBOvzWalIghNrL5GllGH8ou17ICYGv29Rg==
 
-#EXTINF:-1 tvg-id="Teleislas.co" tvg-logo="https://i.imgur.com/4xNgb8H.png" group-title="COLOMBIA",Teleislas (San Andrés) (486p) [Not 24/7]
+#EXTINF:-1 tvg-id="Teleislas.co" tvg-logo="https://i.imgur.com/4xNgb8H.png" group-title="COLOMBIA",Teleislas
 https://5ab772334c39c.streamlock.net/live-teleislas/teleislas/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Telepacifico.co" tvg-logo="https://i.imgur.com/39hy97J.png" group-title="COLOMBIA",Telepacífico (Santiago de Cali | Valle del Cauca) (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="Telepacifico.co" tvg-logo="https://i.imgur.com/39hy97J.png" group-title="COLOMBIA",Telepacífico
 https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVAgro.co" tvg-logo="https://i.imgur.com/QJibSpO.png" group-title="COLOMBIA",TV Agro
 http://179.1.7.198:1935/live/TVAgroHD.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Zoom.co" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/zoom_colombia-mediano.png" group-title="COLOMBIA",Zoom (Bogotà | Cundinamarca) (1080p)
+#EXTINF:-1 tvg-id="Zoom.co" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/zoom_colombia-mediano.png" group-title="COLOMBIA",Zoom 
 https://canalzoom.itex.com.co:3027/live/canalzoombr1live.m3u8
+
+#EXTINF:-1 tvg-id="telenovelas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Logo_tlnovelas_feb2019.png/1223px-Logo_tlnovelas_feb2019.png" group-title="NOVELAS",TELENOVELAS (INTERNEXA)
+http://181.176.148.142:8000/play/
 
 
 #EXTINF:-1 tvg-id="DWEspanol.de" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="INTERNACIONAL",DW Español (1080p)
@@ -63,6 +75,12 @@ http://190.83.119.67:8000/play/a0sb
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0r4.png" group-title="SERIES",FX
 http://190.83.119.67:8000/play/a0r4
 
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0u4.png" group-title="SERIES",STAR CHANNEL
+http://190.83.119.67:8000/play/a0u4/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0s6.png" group-title="SERIES",Warner
+http://190.83.119.67:8000/play/a0s6
+
 
 
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0uf.png" group-title="CINE",Cine Latino
@@ -79,6 +97,19 @@ http://190.83.119.67:8000/play/a0um
 
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0ol.png" group-title="CINE",Paramount
 http://190.83.119.67:8000/play/a0ol
+
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0un.png" group-title="CINE",HBO XTREME
+http://190.83.119.67:8000/play/a0un/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0uk.png" group-title="CINE",HBO2
+http://190.83.119.67:8000/play/a0uk/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1000px-TNT_Logo_2016.svg.png" group-title="CINE",TNT
+http://45.71.185.142:8500/play/a00g
+
+
+#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/6011bffa317a1f7611f12428/1611951888391-OIPSPETGDE17AB8Q1IWB/Banner-RetroTV.png" group-title="CINE",RETRO (INTERNEXA)
+http://181.176.148.142:8000/play/a02x
 
 
 
@@ -102,6 +133,15 @@ http://190.83.119.67:8000/play/a0u3
 
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0pb.png" group-title="INFANTILES",Disney JR
 http://190.83.119.67:8000/play/a0pb
+
+#EXTINF:-1 tvg-logo="https://www.fmhot.cl/images/team/logo_kids.png" group-title="INFANTILES",FMH KIDS
+http://181.176.148.142:8000/play/a01z
+
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0s3.png" group-title="INFANTILES",Tooncast
+http://190.83.119.67:8000/play/a0s3
+
+#EXTINF:-1 tvg-logo="https://cablemio.com/wp-content/uploads/2020/09/canalinfantil.png" group-title="INFANTILES",CANAL INFANTIL
+http://181.176.148.142:8000/play/a020
 
 
 
@@ -147,6 +187,28 @@ http://190.83.119.67:8000/play/a0or
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0t9.png" group-title="CANALES HD",Paramount HD
 http://190.83.119.67:8000/play/a0t9
 
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0od.png" group-title="CANALES HD",Golden Premiere 2 HD
+http://190.83.119.67:8000/play/a0od/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0oc.png" group-title="CANALES HD",Golden Premiere HD
+http://190.83.119.67:8000/play/a0oc/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0ov.png" group-title="CANALES HD",HBO XTREME HD
+http://190.83.119.67:8000/play/a0ov/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0os.png" group-title="CANALES HD",HBO2 HD
+http://190.83.119.67:8000/play/a0os/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0si.png" group-title="CANALES HD",STAR CHANNEL HD
+http://190.83.119.67:8000/play/a0si/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0tk.png" group-title="CANALES HD",WARNER HD
+http://190.83.119.67:8000/play/a0tk
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Comedy_Central_2018.svg" group-title="COMEDIA",COMEDY CENTRAL
+http://190.61.102.67:31589/play/a04a
+
 
 
 #EXTINF:-1 tvg-id="CanalC.co" tvg-logo="https://i.imgur.com/gork4XV.png" group-title="MUSICA",Canal C (Santiago de Cali | Valle del Cauca) (720p) [Not 24/7]
@@ -181,6 +243,7 @@ http://190.83.119.67:8000/play/a0o7
 http://190.83.119.67:8000/play/a0ps
 
 
+
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0se.png" group-title="DEPORTES",ESPN
 http://190.83.119.67:8000/play/a0se
 
@@ -189,3 +252,8 @@ http://190.83.119.67:8000/play/a0py
 
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0sf.png" group-title="DEPORTES", ESPN 2
 http://190.83.119.67:8000/play/a0sf
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Enlace_Televisi%C3%B3n_logo.svg/2560px-Enlace_Televisi%C3%B3n_logo.svg.png" group-title="RELIGIOSOS",Enlace
+http://45.71.185.142:8500/play/a00e
