@@ -1,11 +1,11 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/ao/guide.dstv.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/ar/directv.com.ar.epg.xml.gz,https://iptv-org.github.io/epg/guides/ar/gatotv.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/ar/mi.tv.epg.xml.gz,https://iptv-org.github.io/epg/guides/bf/canalplus-afrique.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/bo/comteco.com.bo.epg.xml.gz,https://iptv-org.github.io/epg/guides/br/mi.tv.epg.xml.gz,https://iptv-org.github.io/epg/guides/co/gatotv.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/co/mi.tv.epg.xml.gz,https://iptv-org.github.io/epg/guides/co/siba.com.co.epg.xml.gz,https://iptv-org.github.io/epg/guides/cz/m.tv.sms.cz.epg.xml.gz,https://iptv-org.github.io/epg/guides/dk/allente.se.epg.xml.gz,https://iptv-org.github.io/epg/guides/es/movistarplus.es.epg.xml.gz,https://iptv-org.github.io/epg/guides/fr/chaines-tv.orange.fr.epg.xml.gz,https://iptv-org.github.io/epg/guides/gr/cosmote.gr.epg.xml.gz,https://iptv-org.github.io/epg/guides/gt/mi.tv.epg.xml.gz,https://iptv-org.github.io/epg/guides/id-en/mncvision.id.epg.xml.gz,https://iptv-org.github.io/epg/guides/it/guidatv.sky.it.epg.xml.gz,https://iptv-org.github.io/epg/guides/lt/cgates.lt.epg.xml.gz,https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml.gz,https://iptv-org.github.io/epg/guides/ng/dstv.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/nl/delta.nl.epg.xml.gz,https://iptv-org.github.io/epg/guides/pt/meo.pt.epg.xml.gz,https://iptv-org.github.io/epg/guides/tr/digiturk.com.tr.epg.xml.gz,https://iptv-org.github.io/epg/guides/uk/bt.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/us-pluto/i.mjh.nz.epg.xml.gz,https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml.gz,https://iptv-org.github.io/epg/guides/za/guide.dstv.com.epg.xml.gz"
 
-#EXTINF:-1 tvg-id="RCN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Canal_RCN_logo_%282%29.svg/640px-Canal_RCN_logo_%282%29.svg.png" group-title="COLOMBIA",Canal RCN
+#EXTINF:-1 tvg-id="RCN" tvg-logo="https://seeklogo.com/images/C/Canal_RCN-logo-D2ABF73A3D-seeklogo.com.png" group-title="COLOMBIA",Canal RCN
 http://190.61.41.182:8000/play/a1ub
-#EXTINF:-1 tvg-id="RCN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Canal_RCN_logo_%282%29.svg/640px-Canal_RCN_logo_%282%29.svg.png" group-title="COLOMBIA",Canal RCN
+#EXTINF:-1 tvg-id="RCN" tvg-logo="https://seeklogo.com/images/C/Canal_RCN-logo-D2ABF73A3D-seeklogo.com.png" group-title="COLOMBIA",Canal RCN
 http://200.41.79.165:8000/play/a006/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/City_tv_Bogot%C3%A1_logo.svg/1200px-City_tv_Bogot%C3%A1_logo.svg.png" group-title="COLOMBIA",City TV
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/18/656/png-transparent-citytv-hd-logo-thumbnail.png" group-title="COLOMBIA",City TV
 http://190.61.41.182:8000/play/a1up
 
 #EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/513-5139154_sc05-logo-de-seal-colombia.png" group-title="COLOMBIA",Senal Colombia
@@ -14,16 +14,16 @@ http://190.61.41.182:8000/play/a1ug
 #EXTINF:-1 tvg-id="CaliTV.co" tvg-logo="https://i.imgur.com/AZOTbvH.png" group-title="COLOMBIA",Cali TV 
 https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Canal1.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Channel_1_%28Colombia%29_-_2017_logo.svg/512px-Channel_1_%28Colombia%29_-_2017_logo.svg.png" group-title="COLOMBIA",Canal 1 
+#EXTINF:-1 tvg-id="Canal1.co" tvg-logo="https://simg.nicepng.com/png/small/364-3646927_canal-uno-colombia-hd-2017-channel-1.png" group-title="COLOMBIA",Canal 1 
 https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8
 
-#EXTINF:-1 tvg-id="CaracolTelevision.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/512px-Caracol_Televisi%C3%B3n_logo.svg.png" group-title="COLOMBIA", Canal Caracol
+#EXTINF:-1 tvg-id="CaracolTelevision.co" tvg-logo="https://seeklogo.com/images/C/caracol-television-logo-D4D00AE178-seeklogo.com.png" group-title="COLOMBIA", Canal Caracol
 http://200.41.79.165:8000/play/a0jk/index.m3u8
 
-#EXTINF:-1 tvg-id="CaracolTelevision.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/512px-Caracol_Televisi%C3%B3n_logo.svg.png" group-title="COLOMBIA", Canal Caracol
+#EXTINF:-1 tvg-id="CaracolTelevision.co" tvg-logo="https://seeklogo.com/images/C/caracol-television-logo-D4D00AE178-seeklogo.com.png" group-title="COLOMBIA", Canal Caracol
 https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
 
-#EXTINF:-1 tvg-id="CaracolTelevision.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/512px-Caracol_Televisi%C3%B3n_logo.svg.png" group-title="COLOMBIA",Caracol HD
+#EXTINF:-1 tvg-id="CaracolTelevision.co" tvg-logo="https://seeklogo.com/images/C/caracol-television-logo-D4D00AE178-seeklogo.com.png" group-title="COLOMBIA",Caracol HD
 http://190.61.41.182:8000/play/a35m/index.m3u8
 
 #EXTINF:-1 tvg-id="CNCCartagena.co" tvg-logo="https://i.imgur.com/dJHZfNt.png" group-title="COLOMBIA",Canal CNC Cartagena
@@ -47,16 +47,16 @@ https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TVAgro.co" tvg-logo="https://i.imgur.com/QJibSpO.png" group-title="COLOMBIA",TV Agro
 http://179.1.7.198:1935/live/TVAgroHD.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Telecaf%C3%A9_logo.svg/1200px-Telecaf%C3%A9_logo.svg.png" group-title="COLOMBIA",Telecafe
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_11/large.Telecafe-nov2020.png.b42c86862a780f59c04fddd8f5dd2183.png" group-title="COLOMBIA",Telecafe
 http://190.61.41.182:8000/play/a36o/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Canal_Trece_logo.svg/2560px-Canal_Trece_logo.svg.png" group-title="COLOMBIA",Trece
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/578/331/png-transparent-logo-canal-13-bogota-television-channel-13-others-television-text-orange.png" group-title="COLOMBIA",Trece
 http://190.61.41.182:8000/play/a36p/index.m3u8
 
 #EXTINF:-1 tvg-id="Zoom.co" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/zoom_colombia-mediano.png" group-title="COLOMBIA",Zoom 
 https://canalzoom.itex.com.co:3027/live/canalzoombr1live.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Teleantioquia_logo.svg/2560px-Teleantioquia_logo.svg.png" group-title="COLOMBIA",Teleantioquia
+#EXTINF:-1 tvg-logo="https://logrospublicitarios.com/wp-content/uploads/2020/04/Teleantioquia2020logo-alto.png" group-title="COLOMBIA",Teleantioquia
 http://190.61.41.182:8000/play/a36c
 
 
@@ -123,7 +123,7 @@ http://190.83.119.67:8000/play/a0un/index.m3u8
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0uk.png" group-title="CINE",HBO2
 http://190.83.119.67:8000/play/a0uk/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1000px-TNT_Logo_2016.svg.png" group-title="CINE",TNT
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/743/1007/png-transparent-tnt-logo-television-channel-turner-broadcasting-system-design-television-text-logo.png" group-title="CINE",TNT
 http://45.71.185.142:8500/play/a00g
 
 
@@ -230,7 +230,7 @@ http://190.83.119.67:8000/play/a0tk
 #EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/logo-National-Geographic.png" group-title="CANALES HD",Nat Geo HD
 http://190.61.41.182:8000/play/a37j/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Comedy_Central_2018.svg" group-title="CANALES HD",COMEDY CENTRAL
+#EXTINF:-1 tvg-logo="https://p.kindpng.com/picc/s/728-7288221_cc-logos-comedy-central-new-hd-png-download.png" group-title="CANALES HD",COMEDY CENTRAL
 http://160.20.164.171:8001/play/a01i/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0u5.png" group-title="CANALES HD",Discovery Turbo
@@ -238,7 +238,7 @@ http://160.20.164.171:8001/play/a04j/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Comedy_Central_2018.svg" group-title="COMEDIA",COMEDY CENTRAL
+#EXTINF:-1 tvg-logo="https://p.kindpng.com/picc/s/728-7288221_cc-logos-comedy-central-new-hd-png-download.png" group-title="COMEDIA",COMEDY CENTRAL
 http://190.61.102.67:31589/play/a04a
 
 
@@ -261,7 +261,7 @@ https://video.ejeserver.com/live/teledoradahd.m3u8
 
 
 
-#EXTINF:-1 tvg-id="NASATV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/NASA_TV.svg/512px-NASA_TV.svg.png" group-title=CIENCIA,NASA TV (720p)
+#EXTINF:-1 tvg-id="NASATV.us" tvg-logo="https://w7.pngwing.com/pngs/745/119/png-transparent-logo-nasa-insignia-nasa-tv-washington-d-c-nasa-miscellaneous-blue-text.png" group-title=CIENCIA,NASA TV (720p)
 https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
 
 
@@ -286,18 +286,18 @@ http://190.83.119.67:8000/play/a0py
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0sf.png" group-title="DEPORTES", ESPN 2
 http://190.83.119.67:8000/play/a0sf
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Winsports.svg" group-title="DEPORTES",Win
+#EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/127-1276745_win-png-logo-win-sports-png-transparent-png.png" group-title="DEPORTES",Win
 http://190.61.41.182:8000/play/a36d/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Winsports.svg" group-title="DEPORTES",Win
+#EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/127-1276745_win-png-logo-win-sports-png-transparent-png.png" group-title="DEPORTES",Win
 http://200.41.79.165:8000/play/a04m/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Win_Sports%2B_logo.svg/2560px-Win_Sports%2B_logo.svg.png" group-title="DEPORTES",Win Sports+ HD 
+#EXTINF:-1 tvg-logo="https://www.casablancasports.com/wp-content/uploads/2021/01/Win-Sports-Win-Sports-Normal-Raiting-1.jpg" group-title="DEPORTES",Win Sports+ HD 
 http://190.61.41.182:8000/play/a2lo/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Win_Sports%2B_logo.svg/2560px-Win_Sports%2B_logo.svg.png" group-title="DEPORTES",Win Sports+ HD 
+#EXTINF:-1 tvg-logo="https://www.casablancasports.com/wp-content/uploads/2021/01/Win-Sports-Win-Sports-Normal-Raiting-1.jpg" group-title="DEPORTES",Win Sports+ HD 
 http://200.41.79.165:8000/play/a0js/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Enlace_Televisi%C3%B3n_logo.svg/2560px-Enlace_Televisi%C3%B3n_logo.svg.png" group-title="RELIGIOSOS",Enlace
+#EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/22-224873_enlace-logo-enlace-logo-png.png" group-title="RELIGIOSOS",Enlace
 http://45.71.185.142:8500/play/a00e
