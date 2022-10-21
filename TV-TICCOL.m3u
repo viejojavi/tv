@@ -18,6 +18,9 @@ https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8
 #EXTINF:-1 tvg-id="CaracolTelevision.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/512px-Caracol_Televisi%C3%B3n_logo.svg.png" group-title="COLOMBIA", Canal Caracol
 https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
 
+#EXTINF:-1 tvg-id="CaracolTelevision.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/512px-Caracol_Televisi%C3%B3n_logo.svg.png" group-title="COLOMBIA",Caracol HD
+http://190.61.41.182:8000/play/a35m/index.m3u8
+
 #EXTINF:-1 tvg-id="CNCCartagena.co" tvg-logo="https://i.imgur.com/dJHZfNt.png" group-title="COLOMBIA",Canal CNC Cartagena
 https://cloud2.streaminglivehd.com:1936/8054/8054/playlist.m3u8
 
@@ -39,10 +42,21 @@ https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TVAgro.co" tvg-logo="https://i.imgur.com/QJibSpO.png" group-title="COLOMBIA",TV Agro
 http://179.1.7.198:1935/live/TVAgroHD.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Telecaf%C3%A9_logo.svg/1200px-Telecaf%C3%A9_logo.svg.png" group-title="COLOMBIA",Telecafe
+http://190.61.41.182:8000/play/a36o/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Canal_Trece_logo.svg/2560px-Canal_Trece_logo.svg.png" group-title="COLOMBIA",Trece
+http://190.61.41.182:8000/play/a36p/index.m3u8
+
 #EXTINF:-1 tvg-id="Zoom.co" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/zoom_colombia-mediano.png" group-title="COLOMBIA",Zoom 
 https://canalzoom.itex.com.co:3027/live/canalzoombr1live.m3u8
 
-#EXTINF:-1 tvg-id="telenovelas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Logo_tlnovelas_feb2019.png/1223px-Logo_tlnovelas_feb2019.png" group-title="NOVELAS",TELENOVELAS (INTERNEXA)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Teleantioquia_logo.svg/2560px-Teleantioquia_logo.svg.png" group-title="COLOMBIA",Teleantioquia
+http://190.61.41.182:8000/play/a36c
+
+
+
+#EXTINF:-1 tvg-id="telenovelas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Logo_tlnovelas_feb2019.png/1223px-Logo_tlnovelas_feb2019.png" group-title="NOVELAS",TELENOVELAS
 http://181.176.148.142:8000/play/
 
 
@@ -205,6 +219,9 @@ http://190.83.119.67:8000/play/a0si/index.m3u8
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0tk.png" group-title="CANALES HD",WARNER HD
 http://190.83.119.67:8000/play/a0tk
 
+#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/logo-National-Geographic.png" group-title="CANALES HD",Nat Geo HD
+http://190.61.41.182:8000/play/a37j/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Comedy_Central_2018.svg" group-title="COMEDIA",COMEDY CENTRAL
 http://190.61.102.67:31589/play/a04a
@@ -252,6 +269,12 @@ http://190.83.119.67:8000/play/a0py
 
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0sf.png" group-title="DEPORTES", ESPN 2
 http://190.83.119.67:8000/play/a0sf
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Winsports.svg" group-title="DEPORTES",Win
+http://190.61.41.182:8000/play/a36d/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Win_Sports%2B_logo.svg/2560px-Win_Sports%2B_logo.svg.png" group-title="DEPORTES",Win Sports+ HD 
+http://190.61.41.182:8000/play/a2lo/index.m3u8
 
 
 
