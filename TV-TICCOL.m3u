@@ -236,6 +236,12 @@ http://160.20.164.171:8001/play/a01i/index.m3u8
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0u5.png" group-title="CANALES HD",Discovery Turbo
 http://160.20.164.171:8001/play/a04j/index.m3u8
 
+#EXTINF:-1 group-title="CANALES HD",ESPN 3 HD
+http://190.61.41.182:8000/play/a37g
+
+#EXTINF:-1 group-title="CANALES HD",ESPN 4  HD
+http://190.61.41.182:8000/play/a374
+
 
 
 #EXTINF:-1 tvg-logo="https://p.kindpng.com/picc/s/728-7288221_cc-logos-comedy-central-new-hd-png-download.png" group-title="COMEDIA",COMEDY CENTRAL
@@ -280,17 +286,22 @@ http://190.83.119.67:8000/play/a0ps
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0se.png" group-title="DEPORTES",ESPN
 http://190.83.119.67:8000/play/a0se
 
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0py.png" group-title="DEPORTES",ESPN  +
-http://190.83.119.67:8000/play/a0py
-
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0sf.png" group-title="DEPORTES", ESPN 2
 http://190.83.119.67:8000/play/a0sf
+
+#EXTINF:-1 group-title="DEPORTES",ESPN 3
+http://190.61.41.182:8000/play/a36l/index.m3u8
+
+#EXTINF:-1 group-title="DEPORTES",ESPN 4
+http://190.61.41.182:8000/play/a3a4
+
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0py.png" group-title="DEPORTES",ESPN  +
+http://190.83.119.67:8000/play/a0py
 
 #EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/127-1276745_win-png-logo-win-sports-png-transparent-png.png" group-title="DEPORTES",Win
 http://190.61.41.182:8000/play/a36d/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/127-1276745_win-png-logo-win-sports-png-transparent-png.png" group-title="DEPORTES",Win
 http://200.41.79.165:8000/play/a04m/index.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://www.casablancasports.com/wp-content/uploads/2021/01/Win-Sports-Win-Sports-Normal-Raiting-1.jpg" group-title="DEPORTES",Win Sports+ HD 
 http://190.61.41.182:8000/play/a2lo/index.m3u8
