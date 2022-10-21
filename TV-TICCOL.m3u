@@ -2,6 +2,8 @@
 
 #EXTINF:-1 tvg-id="RCN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Canal_RCN_logo_%282%29.svg/640px-Canal_RCN_logo_%282%29.svg.png" group-title="COLOMBIA",Canal RCN
 http://190.61.41.182:8000/play/a1ub
+#EXTINF:-1 tvg-id="RCN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Canal_RCN_logo_%282%29.svg/640px-Canal_RCN_logo_%282%29.svg.png" group-title="COLOMBIA",Canal RCN
+http://200.41.79.165:8000/play/a006/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/City_tv_Bogot%C3%A1_logo.svg/1200px-City_tv_Bogot%C3%A1_logo.svg.png" group-title="COLOMBIA",City TV
 http://190.61.41.182:8000/play/a1up
@@ -14,6 +16,9 @@ https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canal1.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Channel_1_%28Colombia%29_-_2017_logo.svg/512px-Channel_1_%28Colombia%29_-_2017_logo.svg.png" group-title="COLOMBIA",Canal 1 
 https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8
+
+#EXTINF:-1 tvg-id="CaracolTelevision.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/512px-Caracol_Televisi%C3%B3n_logo.svg.png" group-title="COLOMBIA", Canal Caracol
+http://200.41.79.165:8000/play/a0jk/index.m3u8
 
 #EXTINF:-1 tvg-id="CaracolTelevision.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/512px-Caracol_Televisi%C3%B3n_logo.svg.png" group-title="COLOMBIA", Canal Caracol
 https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
@@ -167,6 +172,9 @@ http://190.83.119.67:8000/play/a0q7
 
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0q4.png" group-title="CANALES HD",Animal Planet HD
 http://190.83.119.67:8000/play/a0q4
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0q4.png" group-title="CANALES HD",Animal Planet HD
+http://160.20.164.171:8001/play/a01r/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0sl.png" group-title="CANALES HD",CINECANAL HD
 http://190.83.119.67:8000/play/a0sl
@@ -222,9 +230,17 @@ http://190.83.119.67:8000/play/a0tk
 #EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/logo-National-Geographic.png" group-title="CANALES HD",Nat Geo HD
 http://190.61.41.182:8000/play/a37j/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Comedy_Central_2018.svg" group-title="CANALES HD",COMEDY CENTRAL
+http://160.20.164.171:8001/play/a01i/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0u5.png" group-title="CANALES HD",Discovery Turbo
+http://160.20.164.171:8001/play/a04j/index.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Comedy_Central_2018.svg" group-title="COMEDIA",COMEDY CENTRAL
 http://190.61.102.67:31589/play/a04a
+
 
 
 
@@ -272,9 +288,14 @@ http://190.83.119.67:8000/play/a0sf
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Winsports.svg" group-title="DEPORTES",Win
 http://190.61.41.182:8000/play/a36d/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Winsports.svg" group-title="DEPORTES",Win
+http://200.41.79.165:8000/play/a04m/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Win_Sports%2B_logo.svg/2560px-Win_Sports%2B_logo.svg.png" group-title="DEPORTES",Win Sports+ HD 
 http://190.61.41.182:8000/play/a2lo/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Win_Sports%2B_logo.svg/2560px-Win_Sports%2B_logo.svg.png" group-title="DEPORTES",Win Sports+ HD 
+http://200.41.79.165:8000/play/a0js/index.m3u8
 
 
 
