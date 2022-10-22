@@ -64,6 +64,10 @@ http://190.61.41.182:8000/play/a36c
 #EXTINF:-1 tvg-id="telenovelas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Logo_tlnovelas_feb2019.png/1223px-Logo_tlnovelas_feb2019.png" group-title="NOVELAS",TELENOVELAS
 http://181.176.148.142:8000/play/
 
+#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/RCN_Novelas_logo_2019.png/1200px-RCN_Novelas_logo_2019.png" group-title="NOVELAS",RCN Novelas
+http://190.61.41.182:8000/play/a1pn
+
+
 
 #EXTINF:-1 tvg-id="DWEspanol.de" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="INTERNACIONAL",DW Español (1080p)
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
@@ -79,6 +83,9 @@ http://190.83.119.67:8000/play/a0u5
 
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0sc.png" group-title="INTERNACIONAL",History Channel
 http://190.83.119.67:8000/play/a0sc
+
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0r7.png" group-title="INTERNACIONAL",H2
+http://190.83.119.67:8000/play/a0r7
 
 
 
@@ -99,6 +106,12 @@ http://190.83.119.67:8000/play/a0u4/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0s6.png" group-title="SERIES",Warner
 http://190.83.119.67:8000/play/a0s6
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/studio-universal-logo-9D1649FDA2-seeklogo.com.png" group-title="SERIES",Studio Universal
+http://190.61.41.182:8000/play/a35g
+
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0pr.png" group-title="SERIES",AMC
+http://190.83.119.67:8000/play/a0pr
 
 
 
@@ -123,12 +136,22 @@ http://190.83.119.67:8000/play/a0un/index.m3u8
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0uk.png" group-title="CINE",HBO2
 http://190.83.119.67:8000/play/a0uk/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0ul.png" group-title="CINE",HBO Plus
+http://190.83.119.67:8000/play/a0ul
+
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/743/1007/png-transparent-tnt-logo-television-channel-turner-broadcasting-system-design-television-text-logo.png" group-title="CINE",TNT
 http://45.71.185.142:8500/play/a00g
 
 
 #EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/6011bffa317a1f7611f12428/1611951888391-OIPSPETGDE17AB8Q1IWB/Banner-RetroTV.png" group-title="CINE",RETRO (INTERNEXA)
 http://181.176.148.142:8000/play/a02x
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_i-sat_m.png" group-title="CINE",I-Sat
+http://190.61.41.182:8000/play/a1iy
+
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0oj.png" group-title="CINE",Film & Arts
+http://190.83.119.67:8000/play/a0oj
+
 
 
 
@@ -163,6 +186,8 @@ http://190.83.119.67:8000/play/a0s3
 http://181.176.148.142:8000/play/a020
 
 
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0q8.png" group-title="CANALES HD",AMC HD
+http://190.83.119.67:8000/play/a0q8
 
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0us.png" group-title="CANALES HD",AXN HD
 http://190.83.119.67:8000/play/a0us
@@ -242,6 +267,15 @@ http://190.61.41.182:8000/play/a37g
 #EXTINF:-1 group-title="CANALES HD",ESPN 4  HD
 http://190.61.41.182:8000/play/a374
 
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0q6.png" group-title="CANALES HD",Film & arts HD
+http://190.83.119.67:8000/play/a0q6
+
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0od.png" group-title="CANALES HD",Golden Premiere 2 HD
+http://190.83.119.67:8000/play/a0od
+
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0ot.png" group-title="CANALES HD",HBO Plus HD
+http://190.83.119.67:8000/play/a0ot
+
 
 
 #EXTINF:-1 tvg-logo="https://p.kindpng.com/picc/s/728-7288221_cc-logos-comedy-central-new-hd-png-download.png" group-title="COMEDIA",COMEDY CENTRAL
@@ -288,6 +322,7 @@ http://190.83.119.67:8000/play/a0se
 
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0sf.png" group-title="DEPORTES", ESPN 2
 http://190.83.119.67:8000/play/a0sf
+
 
 #EXTINF:-1 group-title="DEPORTES",ESPN 3
 http://190.61.41.182:8000/play/a36l/index.m3u8
