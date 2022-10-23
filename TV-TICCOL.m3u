@@ -276,6 +276,8 @@ http://190.83.119.67:8000/play/a0od
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0ot.png" group-title="CANALES HD",HBO Plus HD
 http://190.83.119.67:8000/play/a0ot
 
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2017_12/large.5a3bbbf4385f7_TNTHD.png.28b9cebb40b649faba1147c4a5baf313.png" group-title="CANALES HD",TNT HD
+http://190.61.41.182:8000/play/a3bg
 
 
 #EXTINF:-1 tvg-logo="https://p.kindpng.com/picc/s/728-7288221_cc-logos-comedy-central-new-hd-png-download.png" group-title="COMEDIA",COMEDY CENTRAL
