@@ -357,3 +357,9 @@ http://190.61.41.182:8000/play/a2lo/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/22-224873_enlace-logo-enlace-logo-png.png" group-title="RELIGIOSOS",Enlace
 http://45.71.185.142:8500/play/a00e
+
+#EXTINF:-1 tvg-group="MUSICA",MUSICA:Music Top Argentina
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:-1 tvg-group="MUSICA",MUSICA:Retro Tv
+http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w627639048.m3u8?iptvgratis?chile.m3u8
