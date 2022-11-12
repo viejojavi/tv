@@ -13,7 +13,7 @@ http://190.83.119.67:8000/play/a0q7
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0q4.png" group-title="CANALES HD",Animal Planet HD
 http://190.83.119.67:8000/play/a0q4
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0q4.png" group-title="CANALES HD",Animal Planet HD
-http://160.20.164.171:8001/play/a01r/index.m3u8
+http://160.20.164.171:8001/play/a01r
 
 
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0sl.png" group-title="CANALES HD",CINECANAL HD
@@ -50,31 +50,31 @@ http://190.83.119.67:8000/play/a0or
 http://190.83.119.67:8000/play/a0t9
 
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0od.png" group-title="CANALES HD",Golden Premiere 2 HD
-http://190.83.119.67:8000/play/a0od/index.m3u8
+http://190.83.119.67:8000/play/a0od
 
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0oc.png" group-title="CANALES HD",Golden Premiere HD
-http://190.83.119.67:8000/play/a0oc/index.m3u8
+http://190.83.119.67:8000/play/a0oc
 
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0ov.png" group-title="CANALES HD",HBO XTREME HD
-http://190.83.119.67:8000/play/a0ov/index.m3u8
+http://190.83.119.67:8000/play/a0ov
 
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0os.png" group-title="CANALES HD",HBO2 HD
-http://190.83.119.67:8000/play/a0os/index.m3u8
+http://190.83.119.67:8000/play/a0os
 
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0si.png" group-title="CANALES HD",STAR CHANNEL HD
-http://190.83.119.67:8000/play/a0si/index.m3u8
+http://190.83.119.67:8000/play/a0si
 
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0tk.png" group-title="CANALES HD",WARNER HD
 http://190.83.119.67:8000/play/a0tk
 
 #EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/logo-National-Geographic.png" group-title="CANALES HD",Nat Geo HD
-http://190.61.41.182:8000/play/a37j/index.m3u8
+http://190.61.41.182:8000/play/a37j
 
 #EXTINF:-1 tvg-logo="https://p.kindpng.com/picc/s/728-7288221_cc-logos-comedy-central-new-hd-png-download.png" group-title="CANALES HD",COMEDY CENTRAL
-http://160.20.164.171:8001/play/a01i/index.m3u8
+http://160.20.164.171:8001/play/a01i
 
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0u5.png" group-title="CANALES HD",Discovery Turbo
-http://160.20.164.171:8001/play/a04j/index.m3u8
+http://160.20.164.171:8001/play/a04j
 
 #EXTINF:-1 group-title="CANALES HD",ESPN 3 HD
 http://190.61.41.182:8000/play/a37g
@@ -103,7 +103,7 @@ http://200.41.79.165:8000/play/a0js
 #EXTINF:-1 tvg-id="RCN" tvg-logo="https://seeklogo.com/images/C/Canal_RCN-logo-D2ABF73A3D-seeklogo.com.png" group-title="COLOMBIA",Canal RCN
 http://190.61.41.182:8000/play/a1ub
 #EXTINF:-1 tvg-id="RCN" tvg-logo="https://seeklogo.com/images/C/Canal_RCN-logo-D2ABF73A3D-seeklogo.com.png" group-title="COLOMBIA",Canal RCN
-http://200.41.79.165:8000/play/a006/index.m3u8
+http://200.41.79.165:8000/play/a006
 
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/18/656/png-transparent-citytv-hd-logo-thumbnail.png" group-title="COLOMBIA",City TV
 http://190.61.41.182:8000/play/a1up
@@ -118,13 +118,10 @@ https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8
 https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8
 
 #EXTINF:-1 tvg-id="CaracolTelevision.co" tvg-logo="https://seeklogo.com/images/C/caracol-television-logo-D4D00AE178-seeklogo.com.png" group-title="COLOMBIA", Canal Caracol
-http://200.41.79.165:8000/play/a0jk/index.m3u8
+http://200.41.79.165:8000/play/a0jk
 
 #EXTINF:-1 tvg-id="CaracolTelevision.co" tvg-logo="https://seeklogo.com/images/C/caracol-television-logo-D4D00AE178-seeklogo.com.png" group-title="COLOMBIA", Canal Caracol
 https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
-
-#EXTINF:-1 tvg-id="CaracolTelevision.co" tvg-logo="https://seeklogo.com/images/C/caracol-television-logo-D4D00AE178-seeklogo.com.png" group-title="COLOMBIA",Caracol HD
-http://190.61.41.182:8000/play/a35m/index.m3u8
 
 #EXTINF:-1 tvg-id="CNCCartagena.co" tvg-logo="https://i.imgur.com/dJHZfNt.png" group-title="COLOMBIA",Canal CNC Cartagena
 https://cloud2.streaminglivehd.com:1936/8054/8054/playlist.m3u8
