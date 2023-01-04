@@ -102,6 +102,8 @@ http://200.41.79.165:8000/play/a0js
 
 #EXTINF:-1 tvg-id="RCN" tvg-logo="https://seeklogo.com/images/C/Canal_RCN-logo-D2ABF73A3D-seeklogo.com.png" group-title="COLOMBIA",Canal RCN
 http://190.61.41.182:8000/play/a1ub
+#EXTINF:-1 tvg-id="RCN" tvg-logo="https://seeklogo.com/images/C/Canal_RCN-logo-D2ABF73A3D-seeklogo.com.png" group-title="COLOMBIA",Canal RCN sd
+http://186.28.229.11:50800/play/idcanaluno/index.m3u8?token=Xtr3am123
 #EXTINF:-1 tvg-id="RCN" tvg-logo="https://seeklogo.com/images/C/Canal_RCN-logo-D2ABF73A3D-seeklogo.com.png" group-title="COLOMBIA",Canal RCN
 http://200.41.79.165:8000/play/a006
 
