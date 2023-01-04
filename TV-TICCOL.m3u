@@ -120,10 +120,10 @@ http://186.28.229.11:50800/play/idcanaluno/index.m3u8?token=Xtr3am123
 
 #EXTINF:-1 tvg-id="CaracolTelevision.co" tvg-logo="https://seeklogo.com/images/C/caracol-television-logo-D4D00AE178-seeklogo.com.png" group-title="COLOMBIA", Canal Caracol
 http://186.28.229.11:50800/play/idcanalcarac/index.m3u8?token=Xtr3am123
-http://200.41.79.165:8000/play/a0jk
+
 
 #EXTINF:-1 tvg-id="CaracolTelevision.co" tvg-logo="https://seeklogo.com/images/C/caracol-television-logo-D4D00AE178-seeklogo.com.png" group-title="COLOMBIA", Canal Caracol
-Xtr3am
+http://200.41.79.165:8000/play/a0jk
 
 #EXTINF:-1 tvg-id="CNCCartagena.co" tvg-logo="https://i.imgur.com/dJHZfNt.png" group-title="COLOMBIA",Canal CNC Cartagena
 https://cloud2.streaminglivehd.com:1936/8054/8054/playlist.m3u8
