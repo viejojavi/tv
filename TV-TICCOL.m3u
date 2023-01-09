@@ -69,10 +69,10 @@ http://190.83.119.67:8000/play/a0tk
 #EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/logo-National-Geographic.png" group-title="CANALES HD",Nat Geo HD
 http://190.61.41.182:8000/play/a37j
 
-#EXTINF:-1 tvg-logo="https://p.kindpng.com/picc/s/728-7288221_cc-logos-comedy-central-new-hd-png-download.png" group-title="CANALES HD",COMEDY CENTRAL
+#EXTINF:-1 tvg-logo="https://p.kindpng.com/picc/s/728-7288221_cc-logos-comedy-central-new-hd-png-download.png" group-title="CANALES HD",COMEDY CENTRAL HD
 http://160.20.164.171:8001/play/a01i
 
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0u5.png" group-title="CANALES HD",Discovery Turbo
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0u5.png" group-title="CANALES HD",Discovery Turbo HD
 http://160.20.164.171:8001/play/a04j
 
 #EXTINF:-1 group-title="CANALES HD",ESPN 3 HD
