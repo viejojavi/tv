@@ -46,8 +46,8 @@ make install
 curl -L http://www.tbsdtv.com/download/document/linux/tbs-tuner-firmwares_v1.0.tar.bz2 | tar -C /lib/firmware/ -jxf -
 #shutdown -r now
 
-#curl -Lo /usr/bin/astra https://cesbo.com/astra-latest
-#chmod +x /usr/bin/astra
+curl -Lo /usr/bin/astra https://cesbo.com/astra-latest
+chmod +x /usr/bin/astra
 astra -v
 astra init
 
