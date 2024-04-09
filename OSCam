@@ -1,0 +1,109 @@
+Pasos para instalar OSCam:
+Paso 1: Actualizar el sistema
+
+Antes de instalar cualquier software, es recomendable actualizar el sistema Ubuntu.
+
+bash
+
+sudo apt update
+sudo apt upgrade
+
+Paso 2: Instalar las dependencias necesarias
+
+Instala las dependencias requeridas para compilar OSCam.
+
+bash
+
+sudo apt install build-essential libssl-dev libpcsclite-dev git cmake
+
+Paso 3: Clonar el repositorio de OSCam
+
+bash
+
+cd /usr/src
+sudo git clone https://git.streamboard.tv/common/oscam.git oscam
+
+Paso 4: Compilar e instalar OSCam
+
+Accede al directorio donde se encuentra el código fuente de OSCam y compila el programa.
+
+bash
+
+cd oscam
+sudo cmake .
+sudo make
+sudo make install
+
+Paso 5: Configurar OSCam
+
+Crea un archivo de configuración para OSCam utilizando un editor de texto como nano o vim.
+
+bash
+
+sudo nano /usr/local/etc/oscam.conf
+
+Agrega la configuración básica de OSCam. Aquí hay un ejemplo de configuración básica:
+
+makefile
+
+# oscam.conf generated automatically by Streamboard OSCAM 1.20_svn SVN r11724
+# Read more: https://svn.streamboard.tv/oscam/trunk/Distribution/doc/txt/oscam.conf.txt
+
+[global]
+logfile                       = /var/log/oscam/oscam1/oscam.log
+nice                          = -15
+maxlogsize                    = 1024
+lb_mode                       = 1
+lb_save                       = 100
+lb_stat_cleanup               = 24
+lb_savepath                   = /var/etc/oscamstadisticas.log
+preferlocalcards              = 2
+
+
+
+[cache]
+delay                         = 30
+
+[newcamd]
+port                          = 9090@0B00:000000
+key                           = 0102030405060708091011121314
+keepalive                     = 1
+mgclient                      = 1
+
+[cccam]
+port                          = 12001
+nodeid                        = 1311A30C1017132E
+version                       = 2.3.0
+reshare_mode                  = 0
+
+[webif]
+httpport                      = 8881
+httpuser                      = root
+httppwd                       = T1CC0L2O!7
+httphelplang                  = es
+httplocale                    = es_ES
+httphideidleclients           = 0
+httpshowmeminfo               = 1
+httpshowuserinfo              = 1
+httpshowcacheexinfo           = 1
+httpshowecminfo               = 1
+httpshowloadinfo              = 1
+httpallowed                   = 0.0.0.0-255.255.255.255
+httposcamlabel                = OSCam1
+
+Paso 6: Iniciar OSCam
+
+Una vez configurado, puedes iniciar OSCam.
+
+bash
+
+sudo /usr/local/bin/oscam -b
+
+Paso 7: Acceder a la interfaz web de OSCam
+
+Abre un navegador web e ingresa la dirección IP de tu servidor seguida del puerto HTTP definido en la configuración (por defecto es 8888). Por ejemplo: http://192.168.1.100:8888
+
+Ahora deberías poder acceder a la interfaz web de OSCam para gestionar y monitorear tu configuración.
+Nota:
+
+Esta guía es una introducción básica para instalar OSCam en un servidor Ubuntu utilizando el nuevo repositorio de Git. Es posible que necesites ajustar la configuración según tus necesidades específicas y el hardware de tu sistema. Además, asegúrate de cumplir con todas las leyes y regulaciones aplicables al uso de OSCam y servicios de televisión por satélite.
