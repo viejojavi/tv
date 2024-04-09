@@ -107,3 +107,28 @@ Ahora deberías poder acceder a la interfaz web de OSCam para gestionar y monito
 Nota:
 
 Esta guía es una introducción básica para instalar OSCam en un servidor Ubuntu utilizando el nuevo repositorio de Git. Es posible que necesites ajustar la configuración según tus necesidades específicas y el hardware de tu sistema. Además, asegúrate de cumplir con todas las leyes y regulaciones aplicables al uso de OSCam y servicios de televisión por satélite.
+
+
+Paso 1: Editar el archivo cron del usuario root
+
+Abre el archivo cron del usuario root en un editor de texto como nano o vim.
+
+bash
+
+sudo crontab -e
+
+Paso 2: Agregar la línea para ejecutar OSCam al inicio del servidor
+
+Agrega la siguiente línea al final del archivo para ejecutar OSCam al iniciar el servidor:
+
+perl
+
+@reboot /usr/local/bin/oscam -b
+
+Paso 3: Guardar y cerrar el archivo
+
+Guarda los cambios y cierra el editor de texto.
+
+Después de seguir estos pasos, la orden /usr/local/bin/oscam -b se ejecutará automáticamente al iniciar el servidor gracias a la entrada que agregaste en el archivo cron del usuario root.
+
+Recuerda que esta configuración ejecutará OSCam con los permisos y configuraciones del usuario root. Asegúrate de tener configurado OSCam correctamente para que se ejecute con los permisos adecuados y de cumplir con todas las leyes y regulaciones aplicables al uso de OSCam y servicios de televisión por satélite en tu jurisdicción.
