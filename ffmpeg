@@ -1,0 +1,45 @@
+Paso 1: Instalar FFmpeg
+
+Si FFmpeg aún no está instalado en tu servidor, puedes instalarlo utilizando los siguientes comandos:
+
+bash
+
+sudo apt update
+sudo apt install ffmpeg -y
+
+Paso 2: Configurar Astra Cesbo para utilizar FFmpeg
+
+Edita el archivo de configuración astra.conf de Astra Cesbo:
+
+bash
+
+sudo nano /etc/astra/astra.conf
+
+Agrega o modifica la sección [stream] para especificar el uso de FFmpeg para la transcodificación:
+
+plaintext
+
+[stream]
+id = 1
+type = dvb
+name = DVB-S2
+adapter = 0
+delivery_system = dvbs2
+satellite = 61.0W Amazonas 2
+frequency = 11711
+symbol_rate = 2222
+polarization = horizontal
+fec = 3/4
+modulation = 8psk
+transcoding = ffmpeg
+ffmpeg_threads = 4
+ffmpeg_preset = ultrafast
+ffmpeg_tune = zerolatency
+
+En este ejemplo:
+
+    transcoding = ffmpeg indica que se utilizará FFmpeg para la transcodificación.
+    ffmpeg_threads = 4 especifica el número de hilos que se utilizarán para la transcodificación.
+    ffmpeg_preset = ultrafast define el preset de FFmpeg para la transcodificación (puedes ajustar esto según tus necesidades).
+    ffmpeg_tune = zerolatency optimiza la transcodificación para baja latencia (puedes ajustar esto según tus necesidades).
+
