@@ -57,6 +57,6 @@ fi
 cd /root
 wget https://github.com/amidevous/xui.one/releases/download/test/XUI_1.5.12.zip -O XUI_1.5.12.zip
 unzip XUI_1.5.12.zip
-wget https://raw.githubusercontent.com/viejojavi/tv/xui-one/install.python3 -O /root/install.python3
+wget https://raw.githubusercontent.com/viejojavi/tv/main/xui-one/install.python3 -O /root/install.python3
 python3 /root/install.python3
 echo "finish"
