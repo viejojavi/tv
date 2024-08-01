@@ -56,13 +56,20 @@ astra init
 systemctl start astra
 systemctl enable astra
 
+#EPG - Agregator
+curl -Lo /etc/astra/epg-aggregator.lua https://cdn.cesbo.com/astra/scripts/epg-aggregator/epg-aggregator.lua
+cd /etc/systemd/system/
+ wget https://cdn.cesbo.com/astra/scripts/epg-aggregator/astra-epg.service
+ systemctl start astra-epg
+ systemctl enable astra-epg
+
 #Instalar Oscam
-#apt-get update
-#apt-get -y install subversion dialog
-#svn co http://svn.speedbox.me/svn/oscam-install/trunk oscam
-#chmod -R 0755 oscam
-#cd oscam
-#./install.sh
+apt-get update
+apt-get -y install subversion dialog
+svn co http://svn.speedbox.me/svn/oscam-install/trunk oscam
+chmod -R 0755 oscam
+cd oscam
+./install.sh
 
 #Reiniciar
 reboot
