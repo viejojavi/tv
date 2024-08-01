@@ -62,6 +62,7 @@ cd /etc/systemd/system/
  wget https://cdn.cesbo.com/astra/scripts/epg-aggregator/astra-epg.service
  systemctl start astra-epg
  systemctl enable astra-epg
+ (crontab -l ; echo "0 4 * * * systemctl restart astra-epg") | crontab -
 
 #Instalar Oscam
 apt-get update
