@@ -15,15 +15,15 @@ sleep 5
 
 #Instalar Drivers TBS
 #sudo su
-#apt install curl
-#curl -sSf https://cdn.cesbo.com/astra/scripts/drv-tbs.sh | sh
+apt install curl
+curl -sSf https://cdn.cesbo.com/astra/scripts/drv-tbs.sh | sh
 
 #Cambian el modo de la TBS SAT
-#echo "options stid135 mode=1" > /etc/modprobe.d/stid135.conf
+echo "options stid135 mode=1" > /etc/modprobe.d/stid135.conf
 
 #Validar TBS
-#ls /dev/dvb
-#sleep 5
+ls /dev/dvb
+sleep 5
 
 #Instalar Astra
 sudo -s
