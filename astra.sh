@@ -73,5 +73,26 @@ chmod -R 0755 oscam
 cd oscam
 ./install.sh
 
+#vpn-wireguard
+sudo apt update
+sudo apt install wireguard
+wg genkey | tee /etc/wireguard/server_private.key | wg pubkey > /etc/wireguard/server_public.key
+echo "[Interface]
+Address = 10.0.0.250/24
+PrivateKey = <clave_privada_del_servidor>
+PostUp = iptables -A FORWARD -i %i -j ACCEPT; iptables -t nat -A POSTROUTING -o <interfaz_internet> -j MASQUERADE
+PostDown = iptables -D FORWARD -i %i -j ACCEPT; iptables -t nat -D POSTROUTING -o <interfaz_internet> -j MASQUERADE
+
+[Peer]
+PublicKey = oQ2W4hE60nAyJNVeShc/prhiQPkV3Rzcofyk8s3bf0w=
+Endpoint = 38.188.178.12:51820
+AllowedIPs = 0.0.0.0/0" > /etc/wireguard/wg0.conf
+echo "net.ipv4.ip_forward = 1" > /etc/sysctl.conf
+sudo sysctl -p
+sudo wg-quick up wg0
+sudo systemctl enable wg-quick@wg0
+sudo wg
+
+
 #Reiniciar
 reboot
