@@ -65,6 +65,7 @@ cd /etc/systemd/system/
  (crontab -l ; echo "0 4 * * * systemctl restart astra-epg") | crontab -
 
 #Instalar Oscam
+cd /home/ticcol
 apt-get update
 apt-get -y install subversion dialog
 svn co http://svn.speedbox.me/svn/oscam-install/trunk oscam
