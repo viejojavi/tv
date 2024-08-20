@@ -85,8 +85,8 @@ wg genkey | tee /etc/wireguard/server_private.key | wg pubkey > /etc/wireguard/s
 echo "[Interface]
 Address = 10.0.0.250/24
 PrivateKey = <clave_privada_del_servidor>
-PostUp = iptables -A FORWARD -i %i -j ACCEPT; iptables -t nat -A POSTROUTING -o <interfaz_internet> -j MASQUERADE
-PostDown = iptables -D FORWARD -i %i -j ACCEPT; iptables -t nat -D POSTROUTING -o <interfaz_internet> -j MASQUERADE
+#PostUp = iptables -A FORWARD -i %i -j ACCEPT; iptables -t nat -A POSTROUTING -o <interfaz_internet> -j MASQUERADE
+#PostDown = iptables -D FORWARD -i %i -j ACCEPT; iptables -t nat -D POSTROUTING -o <interfaz_internet> -j MASQUERADE
 
 [Peer]
 PublicKey = oQ2W4hE60nAyJNVeShc/prhiQPkV3Rzcofyk8s3bf0w=
