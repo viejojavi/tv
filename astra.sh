@@ -91,7 +91,7 @@ PrivateKey = <clave_privada_del_servidor>
 [Peer]
 PublicKey = oQ2W4hE60nAyJNVeShc/prhiQPkV3Rzcofyk8s3bf0w=
 Endpoint = 38.188.178.12:51820
-AllowedIPs = 0.0.0.0/0" > /etc/wireguard/wg0.conf
+AllowedIPs = 10.0.0.0/24" > /etc/wireguard/wg0.conf
 echo "net.ipv4.ip_forward = 1" > /etc/sysctl.conf
 sudo sysctl -p
 sudo wg-quick up wg0
