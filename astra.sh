@@ -4,6 +4,11 @@ useradd -m ticcol -s /bin/bash && echo "ticcol:T1CC0L2O!7" | chpasswd
 usermod -aG sudo ticcol
 sleep 5
 
+#deshabilitar ipv6
+sudo sysctl -w net.ipv6.conf.all.disable_ipv6=1
+sudo sysctl -w net.ipv6.conf.default.disable_ipv6=1
+sudo sysctl -w net.ipv6.conf.lo.disable_ipv6=1
+
 #Cabecera
 chmod -x /etc/update-motd.d/*
 cd /etc/update-motd.d
