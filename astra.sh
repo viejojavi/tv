@@ -69,6 +69,11 @@ cd /etc/systemd/system/
  systemctl enable astra-epg
  (crontab -l ; echo "0 4 * * * systemctl restart astra-epg") | crontab -
 
+#Configuracion astra
+cd /etc/astra
+rm astra.conf
+wget https://raw.githubusercontent.com/viejojavi/tv/main/astra.conf
+
 #Instalar Oscam
 cd /home/ticcol
 apt-get update
