@@ -83,6 +83,14 @@ chmod -R 0755 oscam
 cd oscam
 ./install.sh
 
+#Instalar XUIone
+mkdir /home/xtream
+cd /home/xtream
+wget https://raw.githubusercontent.com/amidevous/xui.one/master/install.sh
+bash install.sh
+echo "@reboot root /home/xui/service restart" >> /etc/cron.d/iniciar_xui
+sudo chmod +x /etc/cron.d/iniciar_xui
+
 #vpn-wireguard
 sudo apt update
 sudo apt install wireguard
