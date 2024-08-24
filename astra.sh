@@ -31,24 +31,24 @@ ls /dev/dvb
 sleep 5
 
 #Instalar Astra
-sudo -s
-apt -y install \
-    build-essential \
-    patchutils \
-    libproc-processtable-perl \
-    linux-headers-$(uname -r) \
-    git
-rm -rf /lib/modules/$(uname -r)/extra
-rm -rf /lib/modules/$(uname -r)/kernel/drivers/media
-rm -rf /lib/modules/$(uname -r)/kernel/drivers/staging/media
-git clone --depth=1 https://github.com/tbsdtv/media_build.git /usr/src/media_build
-git clone --depth=1 https://github.com/tbsdtv/linux_media.git -b latest /usr/src/media
-cd /usr/src/media_build
-make dir DIR=../media
-make allyesconfig
-make
-make install
-curl -L http://www.tbsdtv.com/download/document/linux/tbs-tuner-firmwares_v1.0.tar.bz2 | tar -C /lib/firmware/ -jxf -
+#sudo -s
+#apt -y install \
+#    build-essential \
+#    patchutils \
+#    libproc-processtable-perl \
+#    linux-headers-$(uname -r) \
+#    git
+#rm -rf /lib/modules/$(uname -r)/extra
+#rm -rf /lib/modules/$(uname -r)/kernel/drivers/media
+#rm -rf /lib/modules/$(uname -r)/kernel/drivers/staging/media
+#git clone --depth=1 https://github.com/tbsdtv/media_build.git /usr/src/media_build
+#git clone --depth=1 https://github.com/tbsdtv/linux_media.git -b latest /usr/src/media
+#cd /usr/src/media_build
+#make dir DIR=../media
+#make allyesconfig
+#make
+#make install
+#curl -L http://www.tbsdtv.com/download/document/linux/tbs-tuner-firmwares_v1.0.tar.bz2 | tar -C /lib/firmware/ -jxf -
 #shutdown -r now
 
 curl -Lo /usr/bin/astra https://cesbo.com/astra-latest
