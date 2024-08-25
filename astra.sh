@@ -95,7 +95,7 @@ sudo chmod +x /etc/cron.d/iniciar_xui
 
 #vpn-wireguard
 sudo apt update
-sudo apt install wireguard
+sudo apt install wireguard -y
 wg genkey | tee /etc/wireguard/server_private.key | wg pubkey > /etc/wireguard/server_public.key
 echo "[Interface]
 Address = 10.0.0.250/24
