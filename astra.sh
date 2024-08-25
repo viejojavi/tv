@@ -72,7 +72,8 @@ cd /etc/systemd/system/
 #Configuracion astra
 cd /etc/astra
 rm astra.conf
-curl -o /etc/astra/astra.conf wget https://raw.githubusercontent.com/viejojavi/tv/main/astra.conf
+cd /etc/astra
+wget https://raw.githubusercontent.com/viejojavi/tv/main/astra.conf
 
 #Instalar Oscam
 cd /home/ticcol
