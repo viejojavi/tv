@@ -9,3 +9,9 @@ git clone https://github.com/PabloServers/xui.one
 cd xui.one
 chmod +x install.sh
 ./install.sh
+
+
+xui 1.5.13
+
+
+bash <(wget -qO- https://valut.iptvtools.io/xuione/installxui.sh)
